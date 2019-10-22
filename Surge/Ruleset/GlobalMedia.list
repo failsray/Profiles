@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,joox.com
 # > Pandora
 USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
+# > SoundCloud
+USER-AGENT,SoundCloud*
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.com
 # > Spotify
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,pscdn.co

@@ -462,6 +462,11 @@ Rule:
 # > Pandora
 # USER-AGENT,Pandora*,GlobalMedia
 - DOMAIN-SUFFIX,pandora.com,GlobalMedia
+# > SoundCloud
+# USER-AGENT,SoundCloud*,GlobalMedia
+- DOMAIN-SUFFIX,p-cdn.us,GlobalMedia
+- DOMAIN-SUFFIX,sndcdn.com,GlobalMedia
+- DOMAIN-SUFFIX,soundcloud.com,GlobalMedia
 # > Spotify
 # USER-AGENT,Spotify*,GlobalMedia
 - DOMAIN-SUFFIX,pscdn.co,GlobalMedia
@@ -915,7 +920,6 @@ Rule:
 - DOMAIN-SUFFIX,shopee.tw,PROXY
 - DOMAIN-SUFFIX,slideshare.net,PROXY
 - DOMAIN-SUFFIX,softfamous.com,PROXY
-- DOMAIN-SUFFIX,soundcloud.com,PROXY
 - DOMAIN-SUFFIX,ssrcloud.org,PROXY
 - DOMAIN-SUFFIX,startpage.com,PROXY
 - DOMAIN-SUFFIX,steamcommunity.com,PROXY
