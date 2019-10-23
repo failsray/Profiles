@@ -594,6 +594,11 @@ Rule:
 - DOMAIN-SUFFIX,nflximg.net,GlobalMedia
 - DOMAIN-SUFFIX,nflxso.net,GlobalMedia
 - DOMAIN-SUFFIX,nflxvideo.net,GlobalMedia
+# > niconico
+- DOMAIN-SUFFIX,dmc.nico,GlobalMedia
+- DOMAIN-SUFFIX,nicovideo.jp,GlobalMedia
+- DOMAIN-SUFFIX,nimg.jp,GlobalMedia
+- DOMAIN-SUFFIX,socdm.com,GlobalMedia
 # > PBS
 # USER-AGENT,PBS*,GlobalMedia
 - DOMAIN-SUFFIX,pbs.org,GlobalMedia
