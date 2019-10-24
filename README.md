@@ -1,10 +1,8 @@
 ## 简介
 
-Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge(2/3+) 的配置规则文件
+Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
 
 ## 规则
-
-[Telegram 频道](https://t.me/DivineEngine_Profiles)
 
 规则分为**标准版**、**专业版**和**回国版**
 
@@ -22,34 +20,21 @@ Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(Shado
 - 拦截运营商劫持
 - 拦截臭名昭著的欺诈网站（如**思杰马克丁**伪造的一系列软件官网、MacKeeper等）
 - 拦截应用广告
-  ⚠️ 网页广告请使用 Safari 内容拦截器如 [ADGuard](https://apps.apple.com/app/apple-store/id1047223162) 或集成去广告功能浏览器
+  ⚠️ 网页广告请使用 Safari 内容拦截器如 [ADGuard](https://apps.apple.com/app/apple-store/id1047223162) 或集成去广告功能的浏览器
+- TikTok 解锁
 
 ### 回国版
 
 - 国内流媒体服务解锁
 - 拦截应用广告
-  ⚠️ 网页广告请使用 Safari 内容拦截器如 [ADGuard](https://itunes.apple.com/app/apple-store/id1047223162?mt=8) 或集成去广告功能浏览器
+  ⚠️ 网页广告请使用 Safari 内容拦截器如 [ADGuard](https://itunes.apple.com/app/apple-store/id1047223162?mt=8) 或集成去广告功能的浏览器
 
-**下载**
+### 下载
 
 - 移动设备长按版本名即可「拷贝」链接进行导入
 - 有自定义规则需求方才使用「快捷指令」
 
-|                             应用                             |                            标准版                            |                            专业版                            |                            回国版                            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Clash([ClashX](https://github.com/yichengchen/clashX) / [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Clash/Pro.yaml) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Clash/BacktoCN.yaml) |
-| Kitsunebi([iOS](https://apps.apple.com/app/apple-store/id1446584073) / [Android](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh)) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/BacktoCN.conf) |
-| [Mellow](https://github.com/eycorsican/mellow/blob/master/README.md) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Mellow/Pro.conf) |                              无                              |
-| [Potatso 2](https://apps.apple.com/app/apple-store/id1162704202) - *停止支持* |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Potatso/Potatso.conf) |                              无                              |
-| [Quantumult](https://apps.apple.com/app/apple-store/id1252015438) \| [快捷指令](https://www.icloud.com/shortcuts/44f0cffd3ddf422ea28fb94380cec417) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf) / [Rejection](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Rejection.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/BacktoCN.conf) / [Rejection](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Rejection.conf) |
-| [Quantumult X](https://apps.apple.com/app/apple-store/id1443988620) \| [Zure 图标组](https://github.com/zealson/Zure/blob/master/README.md) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/BacktoCN.conf) |
-| [Shadowrocket](https://apps.apple.com/app/apple-store/id932747118) / [Pepi](https://apps.apple.com/app/apple-store/id1283082051) \| [快捷指令](https://www.icloud.com/shortcuts/b50d84fb063e469891f8600ab089a684) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/BacktoCN.conf) |
-| Surge 2 \| [快捷指令](https://www.icloud.com/shortcuts/244585386fef4058abc9ac4b2f47ca56) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/BacktoCN.conf) |
-| [Surge 3+](https://nssurge.com/) \| [快捷指令](https://www.icloud.com/shortcuts/6acc9053ff6e487ea6b0f43c2f84b72c) |                              无                              | [Surge3](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Surge3.conf) |                              无                              |
-
-## 说明
-
-### 导入配置教程
+#### 导入配置教程
 
 - [Kitsunebi 配置导入](https://medium.com/circumvention-technology/import-profile-on-kitsunebi-6befa3db03db)
 - [Quantumult 配置导入](https://medium.com/circumvention-technology/import-profile-on-quantumult-2e5cef9cb0c5)
@@ -57,9 +42,19 @@ Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(Shado
 - [Shadowrocket 配置导入](https://medium.com/circumvention-technology/import-profile-on-shadowrocket-f183cd4e95ae)
 - [Surge 配置导入](https://medium.com/circumvention-technology/import-profile-on-surge-2d4119822302)
 
-------
+|                             应用                             |                            标准版                            |                            专业版                            |                            回国版                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Clash([ClashX](https://github.com/yichengchen/clashX) / [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Clash/Pro.yaml) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Clash/BacktoCN.yaml) |
+| Kitsunebi([iOS](https://apps.apple.com/app/apple-store/id1446584073) / [Android](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=zh)) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/BacktoCN.conf) |
+| [Mellow](https://github.com/eycorsican/mellow/blob/master/README.md) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Mellow/Pro.conf) |                              无                              |
+| [Potatso](https://apps.apple.com/app/apple-store/id1162704202) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Potatso/Pro.conf) |                              无                              |
+| [Quantumult](https://apps.apple.com/app/apple-store/id1252015438) \| [快捷指令](https://www.icloud.com/shortcuts/44f0cffd3ddf422ea28fb94380cec417) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Pro.conf) / [Rejection](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Rejection.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/BacktoCN.conf) / [Rejection](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/Rejection.conf) |
+| [Quantumult X](https://apps.apple.com/app/apple-store/id1443988620) \| [Zure 图标组](https://github.com/zealson/Zure/blob/master/README.md) |                              无                              | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/BacktoCN.conf) |
+| [Shadowrocket](https://apps.apple.com/app/apple-store/id932747118) / [Pepi](https://apps.apple.com/app/apple-store/id1283082051) \| [快捷指令](https://www.icloud.com/shortcuts/b50d84fb063e469891f8600ab089a684) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Shadow/BacktoCN.conf) |
+| Surge 2 \| [快捷指令](https://www.icloud.com/shortcuts/244585386fef4058abc9ac4b2f47ca56) | [Basic](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Basic.conf) | [Pro](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Pro.conf) | [BacktoCN](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/BacktoCN.conf) |
+| [Surge 3+](https://nssurge.com/) \| [快捷指令](https://www.icloud.com/shortcuts/6acc9053ff6e487ea6b0f43c2f84b72c) |                              无                              | [Surge3](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Surge3.conf) |                              无                              |
 
-
+## 说明
 
 ### DNS 设置
 
@@ -89,7 +84,7 @@ Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(Shado
 
 **要求**排序如下：
 
-1. Unbreak.list - 用于修正 PROXY 和 REJECT 行为
+1. Unbreak.list - 用于修正后续规则行为
 2. Advertising.list - 广告、行为分析、隐私追踪（macOS 不建议开启）
 3. Hijacking.list - 劫持（运营商、臭名昭著的诈骗网站或恶意应用）
 4. GlobalMedia(ForeignMedia).list - 国际流媒体
@@ -207,11 +202,11 @@ Quantumult X：https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/F
 
 广告阻止不仅于使用 [Rule] 规则，有的广告需要 [URL Rewrite] 和 [MITM]，这就意味着：
 
-- Kitsunebi 不支持 [URL Rewrite] 和 [MITM]
-- Quantumult 虽然支持 [URL Rewrite] 和 [MITM]，但需要在「更多 > 附加功能」中开启「激进阻止」以开启更全面的支持否则同 Surge 效果一样，另外 Quantumult 对于 IP 的 Server Name 不会进行 MitM，所以对于个别应用如瑞幸咖啡也无效。
+- Surge 虽然支持 [URL Rewrite] 和 [MITM]，但无法处理 TUN 的广告。
+- Quantumult 虽然支持 [URL Rewrite] 和 [MITM]，但需要在「更多 > 附加功能」中开启「激进阻止」以更全面的支持（X 版本默认带此功能）否则同 Surge 效果一样，但 Quantumult 对于 IP 不会进行 MitM，所以有的广告不能如 Surge 一般去除。
 - Shadowrocket 的 [MITM] 功能不稳定影响正常功能，已从规则配置中移除，不再支持。
-- Surfboard 仅支持 [URL Rewrite] 且仅支持 302 没有阻止功能
-- Surge 虽然支持 [URL Rewrite] 和 [MITM]，但对于个别应用如优酷、腾讯视频（部分）的请求（TUN）无法处理。
+- Kitsunebi 不支持 [URL Rewrite] 和 [MITM]。
+- Surfboard 仅支持 [URL Rewrite] 且仅支持 302 没有阻止功能。
 
 **3.规则不是万能的**
 
@@ -233,7 +228,40 @@ Quantumult X：https://github.com/ConnersHua/Profiles/tree/master/Quantumult/X/F
 
 ------
 
+## 各应用的差异性
 
+前面有略微提到有的功能在这个应用上但在另一个应用上没有，首先希望大家能明白，一个功能的有无并不能说明什么，这里面涉及到系统的限制和应用作者对于功能实现的一些考量，那么差异性大致有哪些：
+
+比如说 Surfboard：从 [Android 7 开始不支持 MitM](https://android-developers.googleblog.com/2016/07/changes-to-trusted-certificate.html) 所以没法支持 MitM 和 USER-AGENT 规则类型（但支持 PROCESS-NAME 规则类型）
+
+比如说 Kitsunebi：在一众类似 Surge 应用里它可以说是最不一样的，因为这是一个基于 v2ray-core 的图形界面客户端，那么 v2ray-core 不支持的功能它也不支持是合乎情理的。
+
+比如说 Quantumult：
+
+1. 不支持 IP ServerName 的 MitM 是考虑到无法确认上游自签名的服务器是否有被人 MitM 目前只能如此折中处理。
+2. Quantumult 的 USER-AGENT 规则类型的优先级不像 Surge 一类应用那么高，所以 Unbreak 中的一些以 UA 规则来修正行为的策略是无效的。
+3. 不同于其他软件以最前面的生效，一些重复的规则以最后出现的规则设定生效。
+
+比如说 Quantumult X：
+
+1. 因为一些软件的 User-Agent 的名字是同名的，所以降低了 USER-AGENT 规则类型的优先级到了一个基本不能用的状态。
+
+2. host-keyword 的优先级没有其他 host 规则类型高，也就是说你如果有如下这样的规则
+
+   ```
+   host-keyword, baidu, reject
+   host-suffix, baidu.com, direct
+   ```
+
+   不管规则在 remote 还是 local、不管规则顺序先后，`host-keyword, baidu, reject` 都是不生效的。
+
+比如说 Surge：Rewrite 和 MitM 不能如 Ruleset 规则那样远程管理，不能处理 TUN 的广告。
+
+还有一些不同没有说明，这里主要挑些经常会遇到的，以上差异化说明仅是为了方便选择购买和使用应用时的注意事项，**一个应用的某个功能的缺失，并不能说明这个应用不好而是不符合你的需求，你需要了解你的需求和你想要购买的产品，根据需求选择产品也是这些年 Apple 及其员工一直在给我的理念**。
+
+## 最后
+
+*Good Luck Have Fun*
 
 ## 感谢
 
