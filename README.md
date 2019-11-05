@@ -1,9 +1,11 @@
 ## MRHX-ReadMe
 Folk 来自神机规则和野比规则.
 
-神机： https://github.com/ConnersHua/Profiles
+神机： 
+https://github.com/ConnersHua/Profiles
 
-野比： https://github.com/NobyDa/Profiles 
+野比： 
+https://github.com/NobyDa/Profiles 
 
 除了增加了专用分流规则，以及 Quantumultx 预配置文件，其他没有任何变动；
 
