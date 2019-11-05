@@ -1,3 +1,24 @@
+## MRHX-ReadMe
+Folk 来自神机规则 https://github.com/ConnersHua/Profiles和https://github.com/NobyDa/Profiles ，除了增加了专用分流规则，以及 Quantumultx 预配置文件，其他没有任何变动；
+
+## 新增专用分流规则（链接到毒奶小姐姐项目）
+https://github.com/limbopro/Profiles/tree/master/limbopro
+
+1. 为了应对突发情况，例如机场域名被污染/墙而无法打开，在此我（提前）为各个机场写了分流规则（订阅即可使用）
+2. 已增加80+主流机场域名（17.10.2019）
+
+## 新增Quantumultx 预配置文件（链接到毒奶小姐姐项目）
+https://github.com/limbopro/Profiles/tree/master/limbopro/Gift
+
+1. 本预配置文件，相当于提前为QuantumultX预设策略（10个策略）及其策略图标，去广告规则，主流站点分流规则，以及无需拔卡看，Tiktok，解锁VSCO会员；务必遵循教程步骤前后顺序，以确保其可用性；
+
+## 其他均未变
+且会一段时间从源库拉取更新（问题不大）
+
+## 后话
+
+如果你是第一次用 Github ，或许可以学下基础知识，以便更有效的使用 Github，GitHub 新手指南，从入门到放弃（5分钟教学，你也可以拥有自己的仓库）https://limbopro.xyz/archives/3856.html
+
 ## 简介
 
 Clash、Kitsunebi、Mellow、Potatso、Quantumult(X)、Shadowrocket、Pepi(ShadowRay)、Surge 的配置规则文件
