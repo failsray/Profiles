@@ -1,5 +1,7 @@
 ## MRHX-ReadMe
-Folk 来自神机规则 https://github.com/ConnersHua/Profiles和https://github.com/NobyDa/Profiles ，除了增加了专用分流规则，以及 Quantumultx 预配置文件，其他没有任何变动；
+Folk 来自神机规则和野比规则.
+神机： https://github.com/ConnersHua/Profiles
+野比： https://github.com/NobyDa/Profiles ，除了增加了专用分流规则，以及 Quantumultx 预配置文件，其他没有任何变动；
 
 ## 新增专用分流规则（链接到毒奶小姐姐项目）
 https://github.com/limbopro/Profiles/tree/master/limbopro
