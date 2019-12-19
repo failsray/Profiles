@@ -1,4 +1,5 @@
 # (DNS Cache Pollution Protection)
+# > MRHX Self-Use
 # > Google
 DOMAIN-SUFFIX,appspot.com,PROXY
 DOMAIN-SUFFIX,blogger.com,PROXY
@@ -62,6 +63,8 @@ IP-CIDR,91.108.56.0/22,PROXY
 IP-CIDR,109.239.140.0/24,PROXY
 IP-CIDR,149.154.160.0/20,PROXY
 IP-CIDR,205.172.60.0/22,PROXY
+# > Paypal
+DOMAIN-SUFFIX,paypal.com,PROXY
 # > Line
 DOMAIN-SUFFIX,line.me,PROXY
 DOMAIN-SUFFIX,line-apps.com,PROXY
