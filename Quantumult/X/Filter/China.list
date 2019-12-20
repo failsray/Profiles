@@ -1,4 +1,5 @@
 # China Area Network
+# MRHX Self-USE
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
@@ -283,7 +284,6 @@ DOMAIN-SUFFIX,myzaker.com,DIRECT
 DOMAIN-SUFFIX,nim-lang-cn.org,DIRECT
 DOMAIN-SUFFIX,nvidia.com,DIRECT
 DOMAIN-SUFFIX,oracle.com,DIRECT
-DOMAIN-SUFFIX,paypalobjects.com,DIRECT
 DOMAIN-SUFFIX,qdaily.com,DIRECT
 DOMAIN-SUFFIX,qidian.com,DIRECT
 DOMAIN-SUFFIX,qyer.com,DIRECT
