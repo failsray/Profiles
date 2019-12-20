@@ -70,10 +70,8 @@ DOMAIN-SUFFIX,livechina.com,DIRECT
 DOMAIN-SUFFIX,didialift.com,DIRECT
 DOMAIN-SUFFIX,didiglobal.com,DIRECT
 DOMAIN-SUFFIX,udache.com,DIRECT
-# > 蛋蛋赞
-DOMAIN-SUFFIX,343480.com,DIRECT
+# > Movies
 DOMAIN-SUFFIX,baduziyuan.com,DIRECT
-DOMAIN-SUFFIX,com-hs-hkdy.com,DIRECT
 DOMAIN-SUFFIX,czybjz.com,DIRECT
 DOMAIN-SUFFIX,dandanzan.com,DIRECT
 DOMAIN-SUFFIX,fjhps.com,DIRECT
@@ -320,6 +318,5 @@ DOMAIN-SUFFIX,zhimg.com,DIRECT
 DOMAIN-SUFFIX,zhuihd.com,DIRECT
 DOMAIN,download.jetbrains.com,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
-
 # GeoIP China
 GEOIP,CN,DIRECT
